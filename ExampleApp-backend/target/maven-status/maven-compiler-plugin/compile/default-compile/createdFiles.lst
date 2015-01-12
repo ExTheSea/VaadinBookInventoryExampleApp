@@ -1,0 +1,6 @@
+com\example\samples\backend\data\Category.class
+com\example\samples\backend\mock\MockDataService.class
+com\example\samples\backend\mock\MockDataGenerator.class
+com\example\samples\backend\DataService.class
+com\example\samples\backend\data\Product.class
+com\example\samples\backend\data\Availability.class
